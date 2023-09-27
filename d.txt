@@ -3,4 +3,6 @@ u r writting inside the file
  all the command to get back to git bash is written in writting mode at below.
 so just go inside the nano and file and then write anything and then get back by using below commands to save the file 
 and then after saving u just ahve to press enter
+we have just created the git hub acc and uploded file 
+hurrrray
 
